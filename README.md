@@ -54,4 +54,6 @@ CI checks will run against all PRs.
 ## Accessing Uniswap V1 interface
 
 The Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways linked 
-from the [v1.0.0 release](https://github.com/Uniswap/uniswap-frontend/releases/tag/v1.0.0).
+from the [v1.0.0 release](https://github.com/Uniswap/uniswap-frontend/releases/tag/v1.0.0)."# uniswapfrontend" 
+"# uniswapinterface" 
+"# uniswapinterface" 
